@@ -1,0 +1,17 @@
+Metadata-Version: 2.1
+Name: viktor
+Version: 13.2.1
+Summary: SDK for building a VIKTOR application
+Home-page: https://www.viktor.ai/
+Author: VIKTOR
+Author-email: support@viktor.ai
+License: Proprietary
+Platform: UNKNOWN
+Requires-Dist: munch (<3.0.0,>=2.3.2)
+Requires-Dist: numpy (<2.0.0,>=1.15.0)
+Requires-Dist: pandas (<2.0.0,>=0.23.4)
+Requires-Dist: matplotlib (<4.0.0,>=2.2.2)
+
+UNKNOWN
+
+

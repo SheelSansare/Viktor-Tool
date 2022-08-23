@@ -1,0 +1,6 @@
+from typing import Callable, Dict, Sequence, Type
+from viktor import ViktorController as ViktorController
+from viktor.core import File as File
+
+def mock_ParamsFromFile(controller: Type[ViktorController]) -> Callable: ...
+def mock_Storage(*, get: Sequence[File] = ..., list: Sequence[Dict[str, File]] = ...) -> Callable: ...
